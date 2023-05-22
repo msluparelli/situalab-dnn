@@ -1,0 +1,11 @@
+com/situalab/dlab/dnn_thetasAccumM.class
+com/situalab/dlab/dnn_thetas.class
+com/situalab/dlab/dnn_thetasAccumV.class
+com/situalab/dlab/dnn_optimization.class
+com/situalab/dlab/dnn_activation.class
+com/situalab/dlab/dnn_gradientcheck.class
+com/situalab/dlab/dnn_feedback.class
+com/situalab/dlab/dnn.class
+com/situalab/dlab/dnn_thetaspretrained.class
+com/situalab/dlab/dnn_activation$activateV.class
+com/situalab/dlab/dnn_mops.class
